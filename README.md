@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile!
 
-Hi, my name is Anna-Lena. I'm currently living in Germany, working as a Machine Learning Engineer.    
+Hi, my name is Anna-Lena. I'm currently living in Germany, working as a Machine Learning Engineer. I love to learn and share my knowledge with other people.
 Check out my personal webpage at http://alpopkes.com/ and my blog at http://alpopkes.com/year-archive/.
 
 Most popular repositories:
