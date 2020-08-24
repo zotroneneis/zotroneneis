@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub profile!
+
+Hi, my name is Anna-Lena. Welcome to my GitHub profile! I am currently living in Germany, working as a Machine Learning Engineer.
+
+Personal webpage: http://alpopkes.com/
+Blog: http://alpopkes.com/year-archive/
+
+Most popular repositories:
+- Machine Learning basics: 
 
 <!--
 **zotroneneis/zotroneneis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
