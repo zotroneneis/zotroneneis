@@ -3,6 +3,9 @@
 Hi, my name is Anna-Lena. I'm currently living in Germany, working as a Machine Learning Engineer. I love to learn and share my knowledge with other people.
 Check out my personal webpage at http://alpopkes.com/ and my blog at http://alpopkes.com/year-archive/.
 
+
+[YouTube recording](https://www.youtube.com/watch?v=Kf92pycivt4) of my keynote talk ["Finding Magic in Python"](https://www.youtube.com/watch?v=Kf92pycivt4) from PyCon Estonia 2020.    
+     
 Most popular repositories:
 - Machine Learning basics: https://github.com/zotroneneis/machine_learning_basics
 - Magical Python Universe: https://github.com/zotroneneis/magical_universe
