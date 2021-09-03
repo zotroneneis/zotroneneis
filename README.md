@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 Hi, my name is Anna-Lena. I'm currently living in Germany, working as a Machine Learning Engineer. I love to learn and share my knowledge with other people.
-Check out my personal webpage at http://alpopkes.com/ and my blog at http://alpopkes.com/year-archive/.
+Check out my personal webpage at http://alpopkes.com/ and my blog at http://alpopkes.com/posts/.
 
 
 **News**: [YouTube recording](https://www.youtube.com/watch?v=Kf92pycivt4) of my keynote talk ["Finding Magic in Python"](https://www.youtube.com/watch?v=Kf92pycivt4) from PyCon Estonia 2020.    
