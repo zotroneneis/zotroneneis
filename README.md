@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 Hi, my name is Anna-Lena 👋.
-I'm currently working as a machine learning engineer, living in Bonn, Germany. I love to learn and share my knowledge with other people.
+I'm a senior machine learning engineer, living in Bonn, Germany. I love to learn and share my knowledge with other people.
 Check out my [personal webpage](http://alpopkes.com/) and [my blog](http://alpopkes.com/posts/) 🚀.
 
 
